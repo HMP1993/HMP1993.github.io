@@ -1,5 +1,4 @@
-import React from 'react'
-
+import React from "react";
 
 const DUMMY_MEALS = [
   {
@@ -28,11 +27,14 @@ const DUMMY_MEALS = [
   },
 ];
 const AvailableMeals = () => {
+    const mealsList = DUMMY_MEALS.map()
   return (
     <section>
-        
+      <ul>
+        {mealsList}
+      </ul>
     </section>
-  )
-}
+  );
+};
 
-export default AvailableMeals
+export default AvailableMeals;
