@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foodOrder/static/css/main.6af5fa0d.css",
+    "main.js": "/foodOrder/static/js/main.3bf3c532.js",
+    "static/js/787.9da6907c.chunk.js": "/foodOrder/static/js/787.9da6907c.chunk.js",
+    "static/media/top-view-green-leaf-dolma-with-seasonings-dark-surface.jpg": "/foodOrder/static/media/top-view-green-leaf-dolma-with-seasonings-dark-surface.05e4c0fa5550679f78f6.jpg",
+    "index.html": "/foodOrder/index.html",
+    "main.6af5fa0d.css.map": "/foodOrder/static/css/main.6af5fa0d.css.map",
+    "main.3bf3c532.js.map": "/foodOrder/static/js/main.3bf3c532.js.map",
+    "787.9da6907c.chunk.js.map": "/foodOrder/static/js/787.9da6907c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6af5fa0d.css",
+    "static/js/main.3bf3c532.js"
+  ]
+}
